@@ -1,4 +1,4 @@
-Access;Start Time (UTCG);Stop Time (UTCG);Duration (sec)
+Access;Start_Time;Stop_Time;Duration
 1;2 Oct 2021 03:26:58.988;2 Oct 2021 03:38:08.770;669.782
 2;2 Oct 2021 15:11:33.169;2 Oct 2021 15:22:16.146;642.977
 3;2 Oct 2021 16:46:31.120;2 Oct 2021 16:53:14.958;403.838
