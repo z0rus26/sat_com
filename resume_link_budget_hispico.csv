@@ -1,9 +1,9 @@
 One access duration(s);532;532;532;532;532
-Data rate (Mbps);0,2;0,4;0,6;0,8;1
+Data rate (Mbps);0.2;0.4;0.6;0.8;1
 Less angle elevation for establish link (deg);1;4;9;13;16
-Acces duration (s);526,09;508,36;478,80;455,16;437,42
-Downloaded package (Mb);105,22;203,34;287,28;364,12;437,42
-Downloaded package (MB);13,15;25,42;35,91;45,52;54,68
-With Compression rate 1/2 (MB);26,30;50,84;71,82;91,03;109,36
-Necessary passes to download 1 image;22,81;11,80;8,35;6,59;5,49
-Necessary Passes to download 1 image compressed;11,40;5,90;4,18;3,30;2,74
+Acces duration (s);526.09;508.36;478.80;455.16;437.42
+Downloaded package (Mb);105.22;203.34;287.28;364.12;437.42
+Downloaded package (MB);13.15;25.42;35.91;45.52;54.68
+With Compression rate 1/2 (MB);26.30;50.84;71.82;91.03;109.36
+Necessary passes to download 1 image;22.81;11.80;8.35;6.59;5.49
+Necessary Passes to download 1 image compressed;11.40;5.90;4.18;3.30;2.74
