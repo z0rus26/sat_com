@@ -1,4 +1,4 @@
-Time (UTCG);"EIRP (dBW)";"Rcvd. Frequency (GHz)";"Rcvd. Iso. Power (dBW)";"Flux Density (dBW/m^2)";"g/T (dB/K)";"C/No (dB*Hz)";"Bandwidth (kHz)";"C/N (dB)";"Eb/No (dB)";"BER"
+Time(UTCG);"EIRP(dBW)";"Rcvd.Frequency(GHz)";"Rcvd.Iso.Power(dBW)";"FluxDensity(dBW/m^2)";"g/T(dB/K)";"C/No(dB*Hz)";"Bandwidth(kHz)";"C/N(dB)";"Eb/No(dB)";"BER"
 2 Oct 2021 03:26:58.988;6.380;2.290055;-162.593;-133.940266;6.876020;68.382498;6000.000;0.6010;2.3619;3.171704e-02
 2 Oct 2021 03:27:03.000;6.380;2.290055;-162.350;-133.697153;6.876020;68.625612;6000.000;0.8441;2.6050;2.814248e-02
 2 Oct 2021 03:27:08.000;6.380;2.290055;-162.065;-133.412996;6.876020;68.909768;6000.000;1.1283;2.8892;2.428757e-02
